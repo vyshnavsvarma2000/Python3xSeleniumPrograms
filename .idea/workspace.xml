@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/12082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab10_mini_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/14994a4d-445e-448f-b505-0b1f85229401-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/ec83a452-dfb2-4a4d-8585-2e2bef136a3b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/f8b57d1b-b0d0-43db-b05f-fff1cedb824e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14082024/test_Lab11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09082024/test_Lab06.py" beforeDir="false" afterPath="$PROJECT_DIR$/09082024/test_Lab06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,41 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_Lab01.test_sample.executor": "Run",
-    "Python tests.Python tests for test_Lab02.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab03.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab04.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab05.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab06.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab07.test_mini_project_1.executor": "Run",
-    "Python tests.Python tests for test_Lab08.test_mini_project_2.executor": "Run",
-    "Python tests.Python tests for test_Lab09.test_mini_project_3.executor": "Run",
-    "Python tests.Python tests for test_Lab10_mini_project.test_idrive_project.executor": "Run",
-    "Python tests.Python tests in test_Lab09.py.executor": "Run",
-    "Python.test_Lab01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Lab01.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab02.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab03.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab04.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab05.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab06.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab07.test_mini_project_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab08.test_mini_project_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab09.test_mini_project_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab10_mini_project.test_idrive_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab11.test_mini_project_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab09.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab10_mini_project.test_idrive_project">
-    <configuration name="Python tests for test_Lab06.test_open_vwologin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python3xSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab06.test_open_vwologin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab11.test_mini_project_4">
     <configuration name="Python tests for test_Lab07.test_mini_project_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -149,13 +128,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab11.test_mini_project_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python3xSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab11.test_mini_project_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab11.test_mini_project_4" />
         <item itemvalue="Python tests.Python tests for test_Lab10_mini_project.test_idrive_project" />
         <item itemvalue="Python tests.Python tests for test_Lab09.test_mini_project_3" />
         <item itemvalue="Python tests.Python tests for test_Lab08.test_mini_project_2" />
         <item itemvalue="Python tests.Python tests for test_Lab07.test_mini_project_1" />
-        <item itemvalue="Python tests.Python tests for test_Lab06.test_open_vwologin" />
       </list>
     </recent_temporary>
   </component>
