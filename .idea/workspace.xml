@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure_result/00920cd6-d242-4d6d-b23a-f4ec50f38755-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/95ada749-8143-4c55-984d-1e3724028394-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg_shadow_dom/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg_shadow_dom/test_Lab17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/svg_shadow_dom/test_Lab18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative_locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative_locators/test_Lab19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative_locators/test_Lab20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative_locators/test_Lab21_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative_locators/test_Lab22_exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,58 +70,16 @@
     "Python tests.Python tests for test_Lab16_select_box.test_vwo_login_select.executor": "Run",
     "Python tests.Python tests for test_Lab17.test_flipkart.executor": "Run",
     "Python tests.Python tests for test_Lab18.test_svgelements.executor": "Run",
+    "Python tests.Python tests for test_Lab19.test_practice.executor": "Run",
+    "Python tests.Python tests for test_Lab20.test_practice.executor": "Run",
+    "Python tests.Python tests for test_Lab21_exception.test_expcetion.executor": "Run",
     "Python tests.Python tests in test_Lab09.py.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab18.test_svgelements">
-    <configuration name="Python tests for test_Lab13.test_vwo_login_katalong_code" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python3xSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab13.test_vwo_login_katalong_code&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab14.test_vwo_login_invalid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python3xSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab14.test_vwo_login_invalid&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab16_select_box.test_vwo_login_select" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python3xSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab16_select_box.test_vwo_login_select&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab21_exception.test_expcetion">
     <configuration name="Python tests for test_Lab17.test_flipkart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -152,13 +110,58 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab19.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python3xSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relative_locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab19.test_practice&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab20.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python3xSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relative_locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab20.test_practice&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab21_exception.test_expcetion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python3xSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relative_locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab21_exception.test_expcetion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab21_exception.test_expcetion" />
+        <item itemvalue="Python tests.Python tests for test_Lab20.test_practice" />
+        <item itemvalue="Python tests.Python tests for test_Lab19.test_practice" />
         <item itemvalue="Python tests.Python tests for test_Lab18.test_svgelements" />
         <item itemvalue="Python tests.Python tests for test_Lab17.test_flipkart" />
-        <item itemvalue="Python tests.Python tests for test_Lab16_select_box.test_vwo_login_select" />
-        <item itemvalue="Python tests.Python tests for test_Lab13.test_vwo_login_katalong_code" />
-        <item itemvalue="Python tests.Python tests for test_Lab14.test_vwo_login_invalid" />
       </list>
     </recent_temporary>
   </component>
