@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datadriventesting/Data_Driven_Testing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datadriventesting/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datadriventesting/py2xtestdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datadriventesting/test_Lab23.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datadriventesting/test_Lab23.py" beforeDir="false" afterPath="$PROJECT_DIR$/datadriventesting/test_Lab23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

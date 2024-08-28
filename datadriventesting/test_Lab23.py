@@ -1,9 +1,9 @@
 import os
 import time
-
 import allure
 import openpyxl
 import pytest
+from allure_commons.types import AttachmentType
 from selenium import webdriver
 from selenium.common.exceptions import (ElementNotVisibleException,
                                         ElementNotSelectableException)
@@ -28,7 +28,7 @@ def read_credentials_from_excel(file_path):
     return credentials
 
 
-file_path_fromos = os.getcwd() + "/py2xtestdata.xlsx"
+file_path_fromos = os.getcwd()+"/datadriventesting/py2xtestdata.xlsx"
 print(file_path_fromos)
 
 
@@ -70,6 +70,7 @@ def vwo_login(username, password):
         error_msg_element = driver.find_element(By.ID, "js-notification-box-msg")
         print(error_msg_element.text)
         assert error_msg_element.text == "Your email, password, IP address or location did not match"
+        allure.attach(driver.get_screenshot_as_png(), name="login-error-message", attachment_type=AttachmentType.PNG)
 
     else:
         wait = WebDriverWait(driver=driver, timeout=15)
@@ -81,5 +82,6 @@ def vwo_login(username, password):
 
         heading_element = driver.find_element(By.XPATH, "//span[@data-qa='lufexuloga']");
         assert heading_element.text == "Py2xATB"
+        allure.attach(driver.get_screenshot_as_png(), name="dashboard-heading", attachment_type=AttachmentType.PNG)
 
     driver.quit()
