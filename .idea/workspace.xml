@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/19082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_Lab24_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_Lab25_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_Lab26_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_Lab27_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19082024/test_Lab28_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/09f9f26b-51db-4da2-a5c4-3513a0f03a5f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/424bba1a-4949-47e4-814c-799dd1c668e9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/71d4ca59-66c5-4350-ba36-e2598b72d1b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/a15b1ca5-2c02-4f74-90d9-9e9d210c5231-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/bb313a93-b696-44dc-ad05-d5276e5f0b49-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/bf76d472-69e6-48f5-b451-4a0039db1c4f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/d4897383-d2ea-42f6-b5e3-9cde84de109f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e76921d3-ebe9-4416-98d0-d87930b0230f-attachment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datadriventesting/test_Lab23.py" beforeDir="false" afterPath="$PROJECT_DIR$/datadriventesting/test_Lab23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,119 +59,126 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for test_Lab01.test_sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab02.test_open_vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab03.test_open_vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab04.test_open_vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab05.test_open_vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab06.test_open_vwologin.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab07.test_mini_project_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab08.test_mini_project_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab09.test_mini_project_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab10_mini_project.test_idrive_project.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab11.test_mini_project_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab13.test_vwo_login_invalid.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab13.test_vwo_login_katalong_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab14.test_vwo_login_invalid.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab16_select_box.test_vwo_login_select.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab17.test_flipkart.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab18.test_svgelements.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab19.test_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab20.test_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab21_exception.test_expcetion.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Lab23.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab09.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_Lab01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_Lab01.test_sample.executor": "Run",
+    "Python tests.Python tests for test_Lab02.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab03.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab04.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab05.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab06.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab07.test_mini_project_1.executor": "Run",
+    "Python tests.Python tests for test_Lab08.test_mini_project_2.executor": "Run",
+    "Python tests.Python tests for test_Lab09.test_mini_project_3.executor": "Run",
+    "Python tests.Python tests for test_Lab10_mini_project.test_idrive_project.executor": "Run",
+    "Python tests.Python tests for test_Lab11.test_mini_project_4.executor": "Run",
+    "Python tests.Python tests for test_Lab13.test_vwo_login_invalid.executor": "Run",
+    "Python tests.Python tests for test_Lab13.test_vwo_login_katalong_code.executor": "Run",
+    "Python tests.Python tests for test_Lab14.test_vwo_login_invalid.executor": "Run",
+    "Python tests.Python tests for test_Lab16_select_box.test_vwo_login_select.executor": "Run",
+    "Python tests.Python tests for test_Lab17.test_flipkart.executor": "Run",
+    "Python tests.Python tests for test_Lab18.test_svgelements.executor": "Run",
+    "Python tests.Python tests for test_Lab19.test_practice.executor": "Run",
+    "Python tests.Python tests for test_Lab20.test_practice.executor": "Run",
+    "Python tests.Python tests for test_Lab21_exception.test_expcetion.executor": "Run",
+    "Python tests.Python tests for test_Lab23.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab25_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_Lab26_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_Lab27_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_Lab28_alerts.TestAlerts.executor": "Run",
+    "Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc1.executor": "Run",
+    "Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_checkbox.executor": "Run",
+    "Python tests.Python tests in test_Lab09.py.executor": "Run",
+    "Python.test_Lab01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab23.test_vwo_login">
-    <configuration name="Python tests for test_Lab18.test_svgelements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_checkbox">
+    <configuration name="Python tests for test_Lab27_exceptions.test_vwo_login_16" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svg_shadow_dom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab18.test_svgelements&quot;" />
+      <option name="_new_target" value="&quot;test_Lab27_exceptions.test_vwo_login_16&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab19.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab28_alerts.TestAlerts" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relative_locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab19.test_practice&quot;" />
+      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab20.test_practice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relative_locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab20.test_practice&quot;" />
+      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts.test_alerts_tc1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab21_exception.test_expcetion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/relative_locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab21_exception.test_expcetion&quot;" />
+      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab23.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab28_alerts.TestAlerts.test_checkbox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datadriventesting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab23.test_vwo_login&quot;" />
+      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts.test_checkbox&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab23.test_vwo_login" />
-        <item itemvalue="Python tests.Python tests for test_Lab21_exception.test_expcetion" />
-        <item itemvalue="Python tests.Python tests for test_Lab20.test_practice" />
-        <item itemvalue="Python tests.Python tests for test_Lab19.test_practice" />
-        <item itemvalue="Python tests.Python tests for test_Lab18.test_svgelements" />
+        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_checkbox" />
+        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert" />
+        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc1" />
+        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts" />
+        <item itemvalue="Python tests.Python tests for test_Lab27_exceptions.test_vwo_login_16" />
       </list>
     </recent_temporary>
   </component>
