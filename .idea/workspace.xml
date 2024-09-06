@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/19082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_Lab24_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_Lab25_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_Lab26_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_Lab27_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_Lab28_alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/09f9f26b-51db-4da2-a5c4-3513a0f03a5f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/424bba1a-4949-47e4-814c-799dd1c668e9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/71d4ca59-66c5-4350-ba36-e2598b72d1b7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/a15b1ca5-2c02-4f74-90d9-9e9d210c5231-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/bb313a93-b696-44dc-ad05-d5276e5f0b49-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/bf76d472-69e6-48f5-b451-4a0039db1c4f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/d4897383-d2ea-42f6-b5e3-9cde84de109f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e76921d3-ebe9-4416-98d0-d87930b0230f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab29_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab30_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab31_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab32_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab33_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab34_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab35_heatmap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,95 +85,103 @@
     "Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc1.executor": "Run",
     "Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert.executor": "Run",
     "Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_Lab29_actions.test_021_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab30_actions.test_2_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab31_actions.test_2_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab32_actions.test_2_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab33_windows.test_022_windows.executor": "Run",
+    "Python tests.Python tests for test_Lab34_actions.test_026_windows.executor": "Run",
+    "Python tests.Python tests for test_Lab34_actions.test_spicejet.executor": "Run",
+    "Python tests.Python tests for test_Lab35_heatmap.test_026_windows.executor": "Run",
     "Python tests.Python tests in test_Lab09.py.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_checkbox">
-    <configuration name="Python tests for test_Lab27_exceptions.test_vwo_login_16" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab35_heatmap.test_026_windows">
+    <configuration name="Python tests for test_Lab32_actions.test_2_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab27_exceptions.test_vwo_login_16&quot;" />
+      <option name="_new_target" value="&quot;test_Lab32_actions.test_2_actions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab28_alerts.TestAlerts" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab33_windows.test_022_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts&quot;" />
+      <option name="_new_target" value="&quot;test_Lab33_windows.test_022_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab34_actions.test_026_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts.test_alerts_tc1&quot;" />
+      <option name="_new_target" value="&quot;test_Lab34_actions.test_026_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab34_actions.test_spicejet" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert&quot;" />
+      <option name="_new_target" value="&quot;test_Lab34_actions.test_spicejet&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab28_alerts.TestAlerts.test_checkbox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab35_heatmap.test_026_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab28_alerts.TestAlerts.test_checkbox&quot;" />
+      <option name="_new_target" value="&quot;test_Lab35_heatmap.test_026_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_checkbox" />
-        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc3_jsprompt_alert" />
-        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts.test_alerts_tc1" />
-        <item itemvalue="Python tests.Python tests for test_Lab28_alerts.TestAlerts" />
-        <item itemvalue="Python tests.Python tests for test_Lab27_exceptions.test_vwo_login_16" />
+        <item itemvalue="Python tests.Python tests for test_Lab35_heatmap.test_026_windows" />
+        <item itemvalue="Python tests.Python tests for test_Lab34_actions.test_spicejet" />
+        <item itemvalue="Python tests.Python tests for test_Lab34_actions.test_026_windows" />
+        <item itemvalue="Python tests.Python tests for test_Lab33_windows.test_022_windows" />
+        <item itemvalue="Python tests.Python tests for test_Lab32_actions.test_2_actions" />
       </list>
     </recent_temporary>
   </component>
