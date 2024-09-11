@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab29_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab30_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab31_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab32_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab33_windows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab34_actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21082024_actions_windows_iframes/test_Lab35_heatmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTables/test_webtable_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTables/test_webtable_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,43 +87,15 @@
     "Python tests.Python tests for test_Lab34_actions.test_026_windows.executor": "Run",
     "Python tests.Python tests for test_Lab34_actions.test_spicejet.executor": "Run",
     "Python tests.Python tests for test_Lab35_heatmap.test_026_windows.executor": "Run",
+    "Python tests.Python tests for test_webtable_1.test_webtables.executor": "Run",
+    "Python tests.Python tests for test_webtable_2.test_web_tables.executor": "Run",
     "Python tests.Python tests in test_Lab09.py.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab35_heatmap.test_026_windows">
-    <configuration name="Python tests for test_Lab32_actions.test_2_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python3xSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab32_actions.test_2_actions&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab33_windows.test_022_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python3xSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab33_windows.test_022_windows&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_webtable_2.test_web_tables">
     <configuration name="Python tests for test_Lab34_actions.test_026_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -175,13 +141,43 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_webtable_1.test_webtables" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python3xSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebTables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_webtable_1.test_webtables&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_webtable_2.test_web_tables" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python3xSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebTables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_webtable_2.test_web_tables&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_webtable_2.test_web_tables" />
+        <item itemvalue="Python tests.Python tests for test_webtable_1.test_webtables" />
         <item itemvalue="Python tests.Python tests for test_Lab35_heatmap.test_026_windows" />
         <item itemvalue="Python tests.Python tests for test_Lab34_actions.test_spicejet" />
         <item itemvalue="Python tests.Python tests for test_Lab34_actions.test_026_windows" />
-        <item itemvalue="Python tests.Python tests for test_Lab33_windows.test_022_windows" />
-        <item itemvalue="Python tests.Python tests for test_Lab32_actions.test_2_actions" />
       </list>
     </recent_temporary>
   </component>
