@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba46b0d-7e3c-4a87-94d1-9564073b3950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WebTables/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebTables/test_webtable_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebTables/test_webtable_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drag&amp;drop, shadow DOM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drag&amp;drop, shadow DOM/test_drag_drop_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drag&amp;drop, shadow DOM/test_js_executor_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drag&amp;drop, shadow DOM/test_shadow_dom_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +88,9 @@
     "Python tests.Python tests for test_Lab34_actions.test_026_windows.executor": "Run",
     "Python tests.Python tests for test_Lab34_actions.test_spicejet.executor": "Run",
     "Python tests.Python tests for test_Lab35_heatmap.test_026_windows.executor": "Run",
+    "Python tests.Python tests for test_drag_drop_1.test_01_dragdrop.executor": "Run",
+    "Python tests.Python tests for test_js_executor_01.test_JS_01.executor": "Run",
+    "Python tests.Python tests for test_shadow_dom_01.test_01_shadowDOM.executor": "Run",
     "Python tests.Python tests for test_webtable_1.test_webtables.executor": "Run",
     "Python tests.Python tests for test_webtable_2.test_web_tables.executor": "Run",
     "Python tests.Python tests in test_Lab09.py.executor": "Run",
@@ -95,49 +99,49 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_webtable_2.test_web_tables">
-    <configuration name="Python tests for test_Lab34_actions.test_026_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_shadow_dom_01.test_01_shadowDOM">
+    <configuration name="Python tests for test_drag_drop_1.test_01_dragdrop" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drag&amp;drop, shadow DOM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab34_actions.test_026_windows&quot;" />
+      <option name="_new_target" value="&quot;test_drag_drop_1.test_01_dragdrop&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab34_actions.test_spicejet" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_js_executor_01.test_JS_01" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drag&amp;drop, shadow DOM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab34_actions.test_spicejet&quot;" />
+      <option name="_new_target" value="&quot;test_js_executor_01.test_JS_01&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab35_heatmap.test_026_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_shadow_dom_01.test_01_shadowDOM" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python3xSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024_actions_windows_iframes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/drag&amp;drop, shadow DOM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab35_heatmap.test_026_windows&quot;" />
+      <option name="_new_target" value="&quot;test_shadow_dom_01.test_01_shadowDOM&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -173,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_shadow_dom_01.test_01_shadowDOM" />
+        <item itemvalue="Python tests.Python tests for test_js_executor_01.test_JS_01" />
+        <item itemvalue="Python tests.Python tests for test_drag_drop_1.test_01_dragdrop" />
         <item itemvalue="Python tests.Python tests for test_webtable_2.test_web_tables" />
         <item itemvalue="Python tests.Python tests for test_webtable_1.test_webtables" />
-        <item itemvalue="Python tests.Python tests for test_Lab35_heatmap.test_026_windows" />
-        <item itemvalue="Python tests.Python tests for test_Lab34_actions.test_spicejet" />
-        <item itemvalue="Python tests.Python tests for test_Lab34_actions.test_026_windows" />
       </list>
     </recent_temporary>
   </component>
